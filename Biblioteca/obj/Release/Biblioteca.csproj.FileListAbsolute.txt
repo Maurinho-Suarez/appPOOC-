@@ -1,0 +1,143 @@
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\bin\Release\Biblioteca.exe.config
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\bin\Release\Biblioteca.exe
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\bin\Release\Biblioteca.pdb
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.Form1.resources
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.Properties.Resources.resources
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.VentanaAgregarLibro.resources
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.VentanaAgregarSocio.resources
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.VentanaListaLibro.resources
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.VentanaListaSocio.resources
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.VentanaPrincipal.resources
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.csproj.GenerateResource.Cache
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.exe
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.pdb
+E:\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.csprojResolveAssemblyReference.cache
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\bin\Release\Biblioteca.exe.config
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.exe
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.pdb
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\bin\Release\Biblioteca.exe
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\bin\Release\Biblioteca.pdb
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.csprojResolveAssemblyReference.cache
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.Form1.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.Properties.Resources.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.VentanaAgregarLibro.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.VentanaAgregarSocio.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.VentanaListaLibro.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.VentanaListaSocio.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.VentanaPrincipal.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.csproj.GenerateResource.Cache
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca\Biblioteca\obj\Release\Biblioteca.VentanaGestionarPrestamos.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\bin\Release\Biblioteca.exe.config
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.exe
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.pdb
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\bin\Release\Biblioteca.exe
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\bin\Release\Biblioteca.pdb
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.csprojResolveAssemblyReference.cache
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.Form1.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.Properties.Resources.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.VentanaAgregarLibro.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.VentanaAgregarSocio.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.VentanaGestionarPrestamos.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.VentanaListaLibro.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.VentanaListaSocio.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.VentanaPrestarLibro.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.VentanaPrincipal.resources
+D:\Disco E Brahim\Brahim-Ingenieria En Sistemas\Programación\C# pruebas\Aprendiendo\Pruebas\Biblioteca - 9 - copia\Biblioteca\obj\Release\Biblioteca.csproj.GenerateResource.Cache
+G:\Biblioteca - 13 - copia\Biblioteca\bin\Release\Biblioteca.exe.config
+G:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.exe
+G:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.pdb
+E:\Biblioteca - 13 - copia\Biblioteca\bin\Release\Biblioteca.exe.config
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.exe
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.pdb
+E:\Biblioteca - 13 - copia\Biblioteca\bin\Release\Biblioteca.exe
+E:\Biblioteca - 13 - copia\Biblioteca\bin\Release\Biblioteca.pdb
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.csprojResolveAssemblyReference.cache
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.Form1Ingreso.resources
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.Properties.Resources.resources
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaAgregarLibro.resources
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaAgregarSocio.resources
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaGestionarPrestamos.resources
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaListaLibro.resources
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaListaSocio.resources
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaPrestarLibro.resources
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaPrincipal.resources
+E:\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\bin\Release\Biblioteca.exe.config
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.exe
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.pdb
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\bin\Release\Biblioteca.exe
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\bin\Release\Biblioteca.pdb
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.Form1Ingreso.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.Properties.Resources.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaAgregarLibro.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaAgregarSocio.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaGestionarPrestamos.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaListaLibro.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaListaSocio.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaPrestarLibro.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.VentanaPrincipal.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - copia\Biblioteca\obj\Release\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\bin\Release\Biblioteca.exe.config
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\obj\Release\Biblioteca.exe
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\obj\Release\Biblioteca.pdb
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\bin\Release\Biblioteca.exe
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\bin\Release\Biblioteca.pdb
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\obj\Release\Biblioteca.Form1Ingreso.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\obj\Release\Biblioteca.Properties.Resources.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\obj\Release\Biblioteca.VentanaAgregarLibro.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\obj\Release\Biblioteca.VentanaAgregarSocio.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\obj\Release\Biblioteca.VentanaGestionarPrestamos.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\obj\Release\Biblioteca.VentanaListaLibro.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\obj\Release\Biblioteca.VentanaListaSocio.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\obj\Release\Biblioteca.VentanaPrestarLibro.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\obj\Release\Biblioteca.VentanaPrincipal.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo\Biblioteca\obj\Release\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\bin\Release\Biblioteca.exe.config
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.exe
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.pdb
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\bin\Release\Biblioteca.exe
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\bin\Release\Biblioteca.pdb
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.Form1Ingreso.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.Properties.Resources.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.VentanaAgregarLibro.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.VentanaAgregarSocio.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.VentanaGestionarPrestamos.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.VentanaListaLibro.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.VentanaListaSocio.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.VentanaPrestarLibro.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.VentanaPrincipal.resources
+C:\Users\BrhmDnsK263\Desktop\Biblioteca - 13 - con fondo - copia\Biblioteca\obj\Release\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\bin\Release\Biblioteca.exe.config
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.exe
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.pdb
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\bin\Release\Biblioteca.exe
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\bin\Release\Biblioteca.pdb
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.Form1Ingreso.resources
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.Properties.Resources.resources
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaAgregarLibro.resources
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaAgregarSocio.resources
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaGestionarPrestamos.resources
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaListaLibro.resources
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaListaSocio.resources
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaPrestarLibro.resources
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaPrincipal.resources
+C:\Users\maurinho\Desktop\Facultad\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\bin\Release\Biblioteca.exe.config
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.exe
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.pdb
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\bin\Release\Biblioteca.exe
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\bin\Release\Biblioteca.pdb
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.Form1Ingreso.resources
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.Properties.Resources.resources
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaAgregarLibro.resources
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaAgregarSocio.resources
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaGestionarPrestamos.resources
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaListaLibro.resources
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaListaSocio.resources
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaPrestarLibro.resources
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.VentanaPrincipal.resources
+C:\Users\maurinho\Desktop\UNCAus\Paradigmas de programacion\APBibliotecaFinal\Codigo Fuente APBiblioteca - 15 - Version Final\Biblioteca\obj\Release\Biblioteca.csproj.GenerateResource.Cache
